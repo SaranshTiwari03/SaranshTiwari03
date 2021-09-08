@@ -66,7 +66,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/saransh-tiwari-5a934a139/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Saransh20018681"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://https://twitter.com/Saransh_Tiwari_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.youtube.com/channel/UC-dBzAiZz-pN2dVRV9ALRvw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
