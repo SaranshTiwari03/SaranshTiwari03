@@ -10,11 +10,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Structures and Algorithms and Flutter.**
+- 🌱 I’m currently learning **Web Development & Mern stack Development.**
 
 - 🎓 Studying Computer Science with specialization in Internet of Things at Chandigarh University.
 
-- 💼   Actively looking for a summer internship opportuinity.
+- 💼   Actively looking for a Job opportuinities.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -50,7 +50,7 @@
 
   <br/>
     <a href="https://github.com/SaranshTiwari03/github-readme-stats"><img alt="Saransh Tiwari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaranshTiwari03&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SaranshTiwari03/github-readme-stats"><img alt="Saransh Tiwari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaranshTiwari03&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SaranshTiwari03/github-readme-stats"><img alt="Saransh Tiwari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaranshTiwari03&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
 
   <br/>
 <br>
@@ -60,7 +60,7 @@
 <br/>
 <br>
 
-<a href="https://github.com/SaranshTiwari03/github-readme-activity-graph"><img alt="Saransh Tiwari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SaranshTiwari03&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/SaranshTiwari03/github-readme-activity-graph"><img alt="Saransh Tiwari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SaranshTiwari03&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 ## Connect with me:
 <p align="left">
