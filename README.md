@@ -26,6 +26,7 @@
 <h1/><img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/github.gif" width="50px"/> Tech Stack</h1>
     
 <p align="left"> 
+    <a href="https://www.geeksforgeeks.org/mern-stack/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/full-stack.png"/> </a>
     <a href="https://react.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
